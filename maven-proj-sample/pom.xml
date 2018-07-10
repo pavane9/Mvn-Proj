@@ -51,15 +51,15 @@
     </plugin>
   </plugins>
 </build>
-  <build>
+<!--  <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
-      <plugins>
+<!--      <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
         <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_jar_packaging -->
-        <plugin>
+<!--        <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
         </plugin>
@@ -84,6 +84,6 @@
           <version>2.8.2</version>
         </plugin>
       </plugins>
-    </pluginManagement>
-  </build>
+    </pluginManagement> -->
+<!--  </build> -->
 </project>
